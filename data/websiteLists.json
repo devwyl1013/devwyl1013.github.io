@@ -7,7 +7,7 @@
                 {
                     "icon": "Blog",
                     "name": "博客",
-                    "url": "https://notes.worstone.cn/"
+                    "url": "https://wylblog.github.io/"
                 }, {
                     "icon": "Code",
                     "name": "力扣",
@@ -33,7 +33,7 @@
                 }, {
                     "icon": "Book",
                     "name": "背单词",
-                    "url": "https://kaiyiwing.gitee.io/qwerty-learner/"
+                    "url": ""
                 }
             ]
         ]

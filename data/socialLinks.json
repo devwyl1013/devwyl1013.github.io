@@ -3,7 +3,7 @@
         "name": "Github",
         "icon": "/image/icon/github.png",
         "tip": "去 Github 看看 !",
-        "url": "https://github.com/first19326"
+        "url": "https://github.com/wylblog"
     }, {
         "name": "BiliBili",
         "icon": "/image/icon/bilibili.png",
@@ -13,11 +13,11 @@
         "name": "QQ",
         "icon": "/image/icon/qq.png",
         "tip": "有什么事吗 ?",
-        "url": "https://res.abeim.cn/api/qq/?qq=1400134416"
+        "url": "https://res.abeim.cn/api/qq/?qq=2794998160"
     }, {
         "name": "Email",
         "icon": "/image/icon/email.png",
         "tip": "来封 Email ~",
-        "url": "mailto:1400134416@qq.com"
+        "url": "mailto:2794998160@qq.com"
     }
 ]
